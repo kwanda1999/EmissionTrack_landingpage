@@ -1,0 +1,75 @@
+body {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(14,174,87,1) 0%, rgba(12,116,117,1) 90% );
+    font-family: "Century Gothic", sans-serif !important;
+}
+
+p {
+    color: #ddedd0 !important;
+}
+
+
+.header {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(14,174,87,1) 0%, rgba(12,116,117,1) 90% );
+    color: #fff;
+    padding: 5px 0;
+}
+
+.logo {
+    max-height: 150px; 
+}
+
+
+.btn-primary {
+    background-color: #419436 !important;
+    border-color: #419436 !important;
+    color: #fff !important;
+}
+
+.btn-outline-primary {
+    color: #419436 !important;
+    border-color: #419546 !important;
+}
+
+    .btn-primary:hover,
+    .btn-primary:focus,
+    .btn-outline-primary:hover,
+    .btn-outline-primary:focus {
+        background-color: #ddedd0 !important; 
+        border-color: #ddedd0 !important; 
+        color: #fff !important; 
+    }
+
+h2 {
+    color: #97cc4a !important;
+    font-weight: bold !important;
+}
+
+
+
+.portfolio {
+    margin: 4em 0;
+    position: relative;
+    
+}
+
+    .portfolio h1 {
+        color: #ddedd0;
+        margin: 2em;
+    }
+
+    .portfolio img {
+        height: 15rem;
+        width: 100%;
+        object-fit: cover;
+        margin: 1em;
+    }
+
+footer {
+    color: #ddedd0;
+}
+
+
+
+
+
+
